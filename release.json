@@ -1,0 +1,6 @@
+[{
+    "version": "1.0-b10+dev1",
+    "train": "dev",
+    "standalone": "elns-1.0-b10+dev1-standalone.exe",
+    "installer": "elns-1.0-b10+dev1-setup.exe"
+}]
