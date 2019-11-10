@@ -1,6 +1,7 @@
 [{
-    "version": "1.0-b10+dev1",
+    "version": "1.0-b10+dev2",
     "train": "dev",
-    "standalone": "https://github.com/sveinse/elns-release-beta/releases/download/1.0-b10+dev1/elns-1.0-b10+dev1-standalone.exe",
-    "installer": "https://github.com/sveinse/elns-release-beta/releases/download/1.0-b10+dev1/elns-1.0-b10+dev1-setup.exe"
+    "page": "https://github.com/sveinse/elns-release-beta/releases/tag/1.0-b10+dev2",
+    "standalone": "https://github.com/sveinse/elns-release-beta/releases/download/1.0-b10+dev2/elns-1.0-b10+dev2-standalone.exe",
+    "installer": "https://github.com/sveinse/elns-release-beta/releases/download/1.0-b10+dev2/elns-1.0-b10+dev2-setup.exe"
 }]
